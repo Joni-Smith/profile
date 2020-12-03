@@ -31,6 +31,10 @@ main{
     right: 16px;
     color: gold;
   }
+  .button1 {
+    color: black;
+    background-color: orange;
+  }
   
   /* Bottom right text */
   .bottom-right {
@@ -45,7 +49,6 @@ main{
     position: absolute;
     top: 50%;
     left: 50%;
-    bottom: 80%;
     transform: translate(-50%, -50%);
     color: gold;
     font-size: large;
