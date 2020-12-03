@@ -10,9 +10,9 @@ main{
 
 .bar1, .bar2, .bar3 {
   width: 100px;
-  height: 50px;
+  height: 30px;
   background-color: pink;
-  margin: 6px 0;
+  margin: 16px 10;
   transition: 0.4s;
 }
 
@@ -32,10 +32,8 @@ main{
     position: absolute;
     top: 50%;
     left: 50%;
-    
-    
-    transform: translate(-50%, -50%);
-    color:black;
+  
+    color:white;
     font-size: large;
   }
 img {
