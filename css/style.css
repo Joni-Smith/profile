@@ -3,14 +3,14 @@ main{
     float:left;
 }
 .container1 {
+    max-width:calc(100%);
     border: 1px solid green;
     
 
 }
 
 .image1 {
-    max-width: 75%;
-    max-height:calc(100%);
+    max-width:calc(40%);
     border: 1px solid black;
 }
 
