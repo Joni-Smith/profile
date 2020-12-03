@@ -21,6 +21,7 @@ main{
     position: absolute;
     top: 8px;
     left: 16px;
+    
   }
   
   /* Top right text */
@@ -28,6 +29,7 @@ main{
     position: absolute;
     top: 8px;
     right: 16px;
+    color: gold;
   }
   
   /* Bottom right text */
@@ -35,6 +37,7 @@ main{
     position: absolute;
     bottom: 8px;
     right: 16px;
+    color: gold;
   }
   
   /* Centered text */
@@ -42,14 +45,13 @@ main{
     position: absolute;
     top: 50%;
     left: 50%;
+    bottom: 80%;
     transform: translate(-50%, -50%);
     color: gold;
     font-size: large;
   }
 
-  .image {
-      opacity: 100;
-  }
+  
 
 aside{
     max-width: calc(25%);
