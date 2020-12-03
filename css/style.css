@@ -10,7 +10,7 @@ main{
 }
 
 .image1 {
-    max-width:calc(40%);
+    max-width:calc(100%);
     border: 1px solid black;
 }
 
