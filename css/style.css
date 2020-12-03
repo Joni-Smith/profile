@@ -2,6 +2,18 @@ main{
     max-width:calc(75%);
     float:left;
 }
+.container1 {
+    border: 1px solid green;
+    
+
+}
+
+.image1 {
+    max-width: 75%;
+    max-height:calc(100%);
+    border: 1px solid black;
+}
+
 aside{
     max-width: calc(25%);
     float: left;
